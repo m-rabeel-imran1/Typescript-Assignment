@@ -1,0 +1,1 @@
+console.log(`Elon Musk once said,"AI will not replace you. The person who is using AI will replace you".`)
